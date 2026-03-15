@@ -13,11 +13,9 @@ setup = function() {
    size(600, 450); 
 
    reset();
-
 }
 
 draw = function(){   
-
 
    if(keyPressed){
     if(key == 'r'){
@@ -25,7 +23,7 @@ draw = function(){
     }
    }
 
-     display();
+  display();
 }
 
 
