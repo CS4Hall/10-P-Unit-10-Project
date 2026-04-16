@@ -24,6 +24,16 @@ draw = function(){
    }
 
   display();
+
+//New Code COULD GO Here ⬇️⬇️⬇️
+
+//while
+
+//for
+
+//array
+
+
 }
 
 
