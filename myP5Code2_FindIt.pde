@@ -27,11 +27,11 @@ draw = function(){
 
 //New Code COULD GO Here ⬇️⬇️⬇️
 
-//while
+//while loop
 
-//for
+//for loop
 
-//array
+//new array
 
 
 }
